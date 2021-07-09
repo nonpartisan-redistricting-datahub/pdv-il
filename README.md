@@ -8,15 +8,11 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
 
 ## vest-il-2020
 
-[In progress]
-
 RDH's partner data validation for VEST's 2020 IL file. VEST's raw file is available [here](https://dataverse.harvard.edu/file.xhtml?fileId=4773525&datasetVersionId=251765).
 
 RDH's election result validation report is available [here](https://redistrictingdatahub.org/dataset/vest-2020-illinois-precinct-and-election-results/). To request a full validation report, please email info@redistrictingdatahub.org. 
 
 ## vest-il-2018
-
-[In progress]
 
 RDH's partner data validation for VEST's 2018 IL file. VEST's raw file is available [here](https://dataverse.harvard.edu/file.xhtml?fileId=4773520&datasetVersionId=251384).
 
