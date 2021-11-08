@@ -35,7 +35,10 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
     - Link: https://gisdata-dupage.opendata.arcgis.com/datasets/election-precincts
     - File: `Dupage_Election_Precincts.zip`
     - Note: it is unclear if these were the precincts at the time of the 2016 election. 
-
+- File: US Census County Map
+    - Accessed: 10/20/21, Source: US Census
+    - https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html
+    - Note: This file was used to check VEST’s county assignments
 
 ### Inaccessible files:
 - File: Kane County Precinct Shapefile
